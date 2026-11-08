@@ -2923,14 +2923,15 @@ for i in range(1,51):
 #     return unique_list
 # print(duplicate([2,6,4,2,4,3,5,3,4]))
 
-my_list=[2,9,3,8,4,7,5]
-largest=0
-second_largest=0
-for i in my_list:
-    if  i>largest:
-        second_largest=largest
-        largest=i
-    elif i>second_largest:
-        second_largest=i
-print(second_largest)
-#
+# my_list=[2,9,3,8,4,7,5]
+# largest=0
+# second_largest=0
+# for i in my_list:
+#     if  i>largest:
+#         second_largest=largest
+#         largest=i
+#     elif i>second_largest:
+#         second_largest=i
+# print(second_largest)
+
+
